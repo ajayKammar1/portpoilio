@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/portpoilio/static/js/main.28ff3072.js",
+    "main.js": "/portpoilio/static/js/main.882bf830.js",
     "static/media/bg1.jpg": "/portpoilio/static/media/bg1.c19ca31248127a7377b6.jpg",
     "static/media/Ajay Kammar.pdf": "/portpoilio/static/media/Ajay Kammar.3bc48741ae8bc1fd6cc7.pdf",
     "static/media/Photo.png": "/portpoilio/static/media/Photo.4a0d1e564d22157d2239.png",
     "index.html": "/portpoilio/index.html",
-    "main.28ff3072.js.map": "/portpoilio/static/js/main.28ff3072.js.map"
+    "main.882bf830.js.map": "/portpoilio/static/js/main.882bf830.js.map"
   },
   "entrypoints": [
-    "static/js/main.28ff3072.js"
+    "static/js/main.882bf830.js"
   ]
 }
