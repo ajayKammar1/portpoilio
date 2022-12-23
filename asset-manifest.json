@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.e991109c.js",
+    "static/media/bg1.jpg": "/static/media/bg1.c19ca31248127a7377b6.jpg",
+    "static/media/Ajay Kammar.pdf": "/static/media/Ajay Kammar.77e9970fa67754e7d80f.pdf",
+    "static/media/Photo.png": "/static/media/Photo.4a0d1e564d22157d2239.png",
+    "index.html": "/index.html",
+    "main.e991109c.js.map": "/static/js/main.e991109c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e991109c.js"
+  ]
+}
